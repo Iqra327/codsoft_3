@@ -1,0 +1,32 @@
+body{
+  padding-top: 130px;
+  background-color:blueviolet;
+}
+.AC-button{
+  padding-left:18px;
+  padding-right:18px;
+}
+.DE-button{
+  padding-left:19px;
+  padding-right:19px;
+}
+.dot-button{
+  padding-left:26px; 
+  padding-right:27px;
+}
+.plus-per-button{
+  padding-left:22px;
+  padding-right:22px;
+}
+.zero-button{
+  padding-left:24px;
+  padding-right:24px;
+}
+.equal-button{
+  padding-right:56px;
+  padding-left:56px;
+}
+button:hover{
+  box-shadow: 1px 1px 5px rgba(1,1,1,0.25);
+  background-color:rgb(219, 217, 217);
+}
